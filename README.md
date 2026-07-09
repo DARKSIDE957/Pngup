@@ -19,35 +19,6 @@ After building, the Windows installer is here:
 
 `src-tauri/target/release/bundle/nsis/Pngup_0.1.0_x64-setup.exe`
 
-## Development
-
-### Prerequisites
-
-- Node.js 20+
-- Rust stable (`rustup`)
-- Visual Studio 2022 Build Tools with the **Desktop development with C++** workload
-- WebView2 (included on Windows 11)
-
-### Install dependencies
-
-```powershell
-npm install
-```
-
-### Run locally
-
-```powershell
-npm run tauri:dev
-```
-
-On Windows, if `link.exe` is missing, open **Developer PowerShell for VS 2022** first, then run the commands above.
-
-### Build installer
-
-```powershell
-npm run tauri:build
-```
-
 ## Shortcuts
 
 - `Ctrl+O` — pick photo
