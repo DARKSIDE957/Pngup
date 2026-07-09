@@ -7,13 +7,13 @@
 **Pin a photo on your Windows desktop and keep working behind it.**
 
 [![Windows](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DARKSIDE957/Pngup/releases)
-[![Version](https://img.shields.io/badge/version-0.1.0-crimson?style=for-the-badge)](https://github.com/DARKSIDE957/Pngup/releases/tag/v0.1.0)
+[![Version](https://img.shields.io/badge/version-0.1.1-crimson?style=for-the-badge)](https://github.com/DARKSIDE957/Pngup/releases/tag/v0.1.1)
 [![Tauri](https://img.shields.io/badge/built%20with-Tauri%202-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app)
 [![License](https://img.shields.io/badge/license-MIT-111111?style=for-the-badge)](LICENSE)
 
 <br />
 
-[**Download for Windows**](https://github.com/DARKSIDE957/Pngup/releases/latest/download/Pngup_0.1.0_x64-setup.exe) · [All releases](https://github.com/DARKSIDE957/Pngup/releases)
+[**Download for Windows**](https://github.com/DARKSIDE957/Pngup/releases/latest/download/Pngup_0.1.1_x64-setup.exe) · [All releases](https://github.com/DARKSIDE957/Pngup/releases)
 
 </div>
 
@@ -41,7 +41,7 @@ Perfect for reference images, design mockups, stream layouts, study notes, or ke
 ## Get started
 
 1. **Download** the installer from [Releases](https://github.com/DARKSIDE957/Pngup/releases).
-2. **Run** `Pngup_0.1.0_x64-setup.exe` and finish setup.
+2. **Run** `Pngup_0.1.1_x64-setup.exe` and finish setup.
 3. **Pick a photo** from the settings ball or tray menu.
 4. **Drag** the photo to position it. Toggle **Pass clicks through** when you want to use apps behind it.
 

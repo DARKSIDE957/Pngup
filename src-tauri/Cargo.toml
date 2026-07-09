@@ -1,6 +1,6 @@
 [package]
 name = "pngup"
-version = "0.1.0"
+version = "0.1.1"
 description = "Floating photo overlay for Windows"
 authors = ["Pngup"]
 edition = "2021"
