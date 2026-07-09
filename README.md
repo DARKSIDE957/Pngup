@@ -1,18 +1,26 @@
 <p align="center">
-  <img src="docs/icon.png" width="88" alt="Pngup">
+  <img src="docs/icon.png" width="96" alt="Pngup">
 </p>
 
 <h1 align="center">Pngup</h1>
 
 <p align="center">
-  Pin a photo on your Windows desktop.
-  <br>
-  <a href="https://github.com/DARKSIDE957/Pngup/releases/latest"><b>Download</b></a>
+  <hr width="320" style="border: none; border-top: 1px solid #333;">
+</p>
+
+<p align="center">
+  <strong>Pin a photo on your Windows desktop and work behind it.</strong><br>
+  Pick an image, keep it floating on top, and click through when you need to use other apps.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WINDOWS-10%2F11-1f1f1f?style=for-the-badge&labelColor=3d3d3d&logo=windows&logoColor=white" alt="Windows">
+  <a href="https://github.com/DARKSIDE957/Pngup/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD-v0.1.1-dc2626?style=for-the-badge&labelColor=3d3d3d" alt="Download">
+  </a>
 </p>
 
 <br>
-
-Pick an image and keep it floating above your other windows. Handy when you need a reference photo, mockup, or note visible while you work.
 
 ### Features
 
