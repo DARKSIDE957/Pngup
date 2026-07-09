@@ -1,25 +1,37 @@
-<img align="left" width="88" src="docs/icon.png" alt="Pngup" />
-
 # Pngup
+
+<table>
+<tr>
+<td width="110">
+<img src="docs/icon.png" width="96" alt="Pngup">
+</td>
+<td>
 
 Pin a photo on your Windows desktop and work behind it.
 
-[Download latest release](https://github.com/DARKSIDE957/Pngup/releases/latest)
+**[Download latest release](https://github.com/DARKSIDE957/Pngup/releases/latest)**
 
-<br clear="left"/>
+Windows 10 / 11
 
-Pngup floats an image above your other windows. Handy for reference photos, mockups, notes, or anything you want to keep visible while you work.
+</td>
+</tr>
+</table>
+
+## About
+
+Pngup keeps an image floating above your other windows. Good for reference photos, mockups, study notes, or anything you want visible while you work.
 
 ## Features
 
-- Always-on-top photo window
-- Click-through mode so you can use apps behind the photo
-- Draggable settings ball
-- Resize and opacity controls
-- Dark and light themes
-- Tray icon with quick actions
-- English, Arabic, Spanish, French, German, Russian
-- Saves your settings between sessions
+| | |
+| :-- | :-- |
+| Photo overlay | Always on top. Move, resize, and change opacity. |
+| Click-through | Use apps behind the photo when you need to. |
+| Settings ball | Small draggable panel you can place anywhere. |
+| Themes | Dark and light. |
+| Languages | English, Arabic, Spanish, French, German, Russian. |
+| Tray menu | Quick actions from the notification area. |
+| Persistence | Saves position, size, and preferences. |
 
 ## Install
 
@@ -31,7 +43,7 @@ Pngup floats an image above your other windows. Handy for reference photos, mock
 ## Shortcuts
 
 | Key | Action |
-| --- | --- |
+| :-- | :-- |
 | `Ctrl+O` | Pick photo |
 | `Ctrl+T` | Toggle click-through |
 | `Ctrl+Shift+H` | Show settings |
