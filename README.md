@@ -1,45 +1,46 @@
+<img align="left" width="88" src="docs/icon.png" alt="Pngup" />
+
 # Pngup
 
-<img src="docs/icon.png" width="72" height="72" alt="Pngup" />
+Pin a photo on your Windows desktop and work behind it.
 
-Floating photo overlay for Windows. Pin an image on screen and keep using other apps behind it.
+[Download latest release](https://github.com/DARKSIDE957/Pngup/releases/latest)
 
-**[Download for Windows](https://github.com/DARKSIDE957/Pngup/releases/latest)**
+<br clear="left"/>
+
+Pngup floats an image above your other windows. Handy for reference photos, mockups, notes, or anything you want to keep visible while you work.
 
 ## Features
 
 - Always-on-top photo window
-- Pass clicks through when you want to work behind the photo
+- Click-through mode so you can use apps behind the photo
 - Draggable settings ball
 - Resize and opacity controls
 - Dark and light themes
+- Tray icon with quick actions
 - English, Arabic, Spanish, French, German, Russian
-- System tray shortcuts
-- Saves settings between sessions
+- Saves your settings between sessions
 
 ## Install
 
-1. Download `Pngup_0.1.1_x64-setup.exe` from [Releases](https://github.com/DARKSIDE957/Pngup/releases)
-2. Run the installer
+1. Download the installer from [Releases](https://github.com/DARKSIDE957/Pngup/releases)
+2. Run it and open Pngup
 3. Pick a photo from the settings ball or tray menu
 4. Drag the photo where you want it
 
 ## Shortcuts
 
-- `Ctrl+O` pick photo
-- `Ctrl+T` toggle pass clicks through
-- `Ctrl+Shift+H` show settings
-- `Ctrl+Shift+P` toggle pass clicks through (global)
-- `Ctrl+Shift+O` pick photo (global)
+| Key | Action |
+| --- | --- |
+| `Ctrl+O` | Pick photo |
+| `Ctrl+T` | Toggle click-through |
+| `Ctrl+Shift+H` | Show settings |
+| `Ctrl+Shift+P` | Toggle click-through (global) |
+| `Ctrl+Shift+O` | Pick photo (global) |
 
 ## Tray menu
 
-- Show photo
-- Show settings
-- Pick photo
-- Toggle pass clicks through
-- Toggle theme
-- Quit
+Right-click the tray icon to show the photo, open settings, pick a photo, toggle click-through, switch theme, or quit.
 
 ## License
 
