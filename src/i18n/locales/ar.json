@@ -1,0 +1,19 @@
+{
+  "appName": "Pngup",
+  "pickPhoto": "اختر صورة",
+  "opacity": "الشفافية",
+  "scale": "الحجم",
+  "passClicksOff": "تمرير النقرات",
+  "passClicksOn": "تمرير النقرات: مفعّل",
+  "passClicksOffHint": "فعّل هذا لتتمكن من النقر على التطبيقات خلف الصورة",
+  "passClicksOnHint": "النقرات تمر عبر الصورة. أوقف هذا لتحريكها أو تغيير حجمها",
+  "themeDark": "الوضع الداكن",
+  "themeLight": "الوضع الفاتح",
+  "language": "اللغة",
+  "hideUi": "إخفاء الإعدادات",
+  "showUi": "فتح الإعدادات",
+  "collapsePanel": "طي إلى الكرة",
+  "dragPanel": "اسحب للتحريك",
+  "noPhotoTitle": "ثبّت صورة على شاشتك",
+  "noPhotoBody": "اختر صورة لتبقى عائمة في المقدمة بينما تتابع عملك."
+}

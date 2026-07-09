@@ -1,0 +1,19 @@
+{
+  "appName": "Pngup",
+  "pickPhoto": "Choose photo",
+  "opacity": "Opacity",
+  "scale": "Size",
+  "passClicksOff": "Pass clicks through",
+  "passClicksOn": "Clicks pass through: ON",
+  "passClicksOffHint": "Turn this on so you can click apps behind the photo",
+  "passClicksOnHint": "Clicks go through the photo. Turn this off to move or resize it",
+  "themeDark": "Dark theme",
+  "themeLight": "Light theme",
+  "language": "Language",
+  "hideUi": "Hide settings",
+  "showUi": "Open settings",
+  "collapsePanel": "Collapse to ball",
+  "dragPanel": "Drag to move",
+  "noPhotoTitle": "Pin a photo on your screen",
+  "noPhotoBody": "Choose an image and it stays floating on top while you keep working."
+}

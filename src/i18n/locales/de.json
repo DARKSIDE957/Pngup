@@ -1,0 +1,19 @@
+{
+  "appName": "Pngup",
+  "pickPhoto": "Foto wählen",
+  "opacity": "Deckkraft",
+  "scale": "Größe",
+  "passClicksOff": "Klicks durchlassen",
+  "passClicksOn": "Klicks durchlassen: AN",
+  "passClicksOffHint": "Einschalten, um Apps hinter dem Foto anzuklicken",
+  "passClicksOnHint": "Klicks gehen durch das Foto. Ausschalten zum Bewegen oder Skalieren",
+  "themeDark": "Dunkles Design",
+  "themeLight": "Helles Design",
+  "language": "Sprache",
+  "hideUi": "Einstellungen ausblenden",
+  "showUi": "Einstellungen öffnen",
+  "collapsePanel": "Zur Kugel einklappen",
+  "dragPanel": "Ziehen zum Bewegen",
+  "noPhotoTitle": "Foto auf dem Bildschirm anheften",
+  "noPhotoBody": "Wähle ein Bild – es schwebt oben, während du weiterarbeitest."
+}

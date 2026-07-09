@@ -1,0 +1,21 @@
+[package]
+name = "pngup"
+version = "0.1.0"
+description = "Floating photo overlay for Windows"
+authors = ["Pngup"]
+edition = "2021"
+
+[lib]
+name = "pngup_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = ["protocol-asset", "tray-icon"] }
+tauri-plugin-dialog = "2"
+tauri-plugin-store = "2"
+tauri-plugin-global-shortcut = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
