@@ -41,5 +41,5 @@ export const EMPTY_STATE_WIDTH = 300;
 export const EMPTY_STATE_HEIGHT = 220;
 
 export const BALL_SIZE = 48;
-export const PANEL_WIDTH = 300;
-export const PANEL_HEIGHT = 248;
+export const PANEL_WIDTH = 292;
+export const PANEL_HEIGHT = 318;

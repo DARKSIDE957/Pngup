@@ -1,59 +1,44 @@
-# Pngup
+<p align="center">
+  <img src="docs/icon.png" width="88" alt="Pngup">
+</p>
 
-<table>
-<tr>
-<td width="110">
-<img src="docs/icon.png" width="96" alt="Pngup">
-</td>
-<td>
+<h1 align="center">Pngup</h1>
 
-Pin a photo on your Windows desktop and work behind it.
+<p align="center">
+  Pin a photo on your Windows desktop.
+  <br>
+  <a href="https://github.com/DARKSIDE957/Pngup/releases/latest"><b>Download</b></a>
+</p>
 
-**[Download latest release](https://github.com/DARKSIDE957/Pngup/releases/latest)**
+<br>
 
-Windows 10 / 11
+Pick an image and keep it floating above your other windows. Handy when you need a reference photo, mockup, or note visible while you work.
 
-</td>
-</tr>
-</table>
+### Features
 
-## About
+- floating always-on-top photo
+- click-through mode
+- draggable settings panel
+- resize and opacity controls
+- dark and light theme
+- English, Arabic, Spanish, French, German, Russian
+- tray shortcuts
 
-Pngup keeps an image floating above your other windows. Good for reference photos, mockups, study notes, or anything you want visible while you work.
+### Install
 
-## Features
+1. grab the installer from [Releases](https://github.com/DARKSIDE957/Pngup/releases)
+2. run it
+3. choose a photo
+4. drag it where you want
 
-| | |
-| :-- | :-- |
-| Photo overlay | Always on top. Move, resize, and change opacity. |
-| Click-through | Use apps behind the photo when you need to. |
-| Settings ball | Small draggable panel you can place anywhere. |
-| Themes | Dark and light. |
-| Languages | English, Arabic, Spanish, French, German, Russian. |
-| Tray menu | Quick actions from the notification area. |
-| Persistence | Saves position, size, and preferences. |
+### Shortcuts
 
-## Install
+`Ctrl+O` pick photo  
+`Ctrl+T` click-through  
+`Ctrl+Shift+H` settings  
+`Ctrl+Shift+P` click-through (global)  
+`Ctrl+Shift+O` pick photo (global)
 
-1. Download the installer from [Releases](https://github.com/DARKSIDE957/Pngup/releases)
-2. Run it and open Pngup
-3. Pick a photo from the settings ball or tray menu
-4. Drag the photo where you want it
-
-## Shortcuts
-
-| Key | Action |
-| :-- | :-- |
-| `Ctrl+O` | Pick photo |
-| `Ctrl+T` | Toggle click-through |
-| `Ctrl+Shift+H` | Show settings |
-| `Ctrl+Shift+P` | Toggle click-through (global) |
-| `Ctrl+Shift+O` | Pick photo (global) |
-
-## Tray menu
-
-Right-click the tray icon to show the photo, open settings, pick a photo, toggle click-through, switch theme, or quit.
-
-## License
+### License
 
 MIT

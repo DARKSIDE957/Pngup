@@ -318,14 +318,10 @@ export function ControlsApp() {
           onPointerMove={handleBallPointerMove}
           onPointerUp={handleBallPointerUp}
         >
-          <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
-            <circle cx="9" cy="9" r="2.2" fill="currentColor" />
-            <path
-              d="M9 2.2v1.6M9 14.2v1.6M2.2 9h1.6M14.2 9h1.6M4.1 4.1l1.1 1.1M12.8 12.8l1.1 1.1M13.9 4.1l-1.1 1.1M5.2 12.8l-1.1 1.1"
-              stroke="currentColor"
-              strokeWidth="1.4"
-              strokeLinecap="round"
-            />
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+            <rect x="4" y="4.5" width="9" height="11" rx="1.2" stroke="currentColor" strokeWidth="1.4" />
+            <path d="M6.5 14h7.5" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" />
+            <circle cx="14.8" cy="5.5" r="1.8" fill="currentColor" />
           </svg>
         </button>
       )}
